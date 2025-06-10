@@ -1,4 +1,4 @@
-# Classification Using CNN with XGBOOST in Liver Cancer Detection for CT scans
+# Classification Using CNN with XGBOOST in Liver Cancer Detection for CT scan images
 
 This project aims to assist in early detection of brain tumors using CT scan images. We’ve combined the strength of deep learning (CNN) and the power of XGBoost to build a smart, reliable, and easy-to-use diagnostic tool—all deployed through a user-friendly Streamlit web app.
 
